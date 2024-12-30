@@ -1,0 +1,14 @@
+C:\Users\User\RiderProjects\КУРСАЧ\bin\Debug\net8.0\CourseWork.exe
+C:\Users\User\RiderProjects\КУРСАЧ\bin\Debug\net8.0\CourseWork.deps.json
+C:\Users\User\RiderProjects\КУРСАЧ\bin\Debug\net8.0\CourseWork.runtimeconfig.json
+C:\Users\User\RiderProjects\КУРСАЧ\bin\Debug\net8.0\CourseWork.dll
+C:\Users\User\RiderProjects\КУРСАЧ\bin\Debug\net8.0\CourseWork.pdb
+C:\Users\User\RiderProjects\КУРСАЧ\obj\Debug\net8.0\CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\КУРСАЧ\obj\Debug\net8.0\CourseWork.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\КУРСАЧ\obj\Debug\net8.0\CourseWork.AssemblyInfo.cs
+C:\Users\User\RiderProjects\КУРСАЧ\obj\Debug\net8.0\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\КУРСАЧ\obj\Debug\net8.0\CourseWork.dll
+C:\Users\User\RiderProjects\КУРСАЧ\obj\Debug\net8.0\refint\CourseWork.dll
+C:\Users\User\RiderProjects\КУРСАЧ\obj\Debug\net8.0\CourseWork.pdb
+C:\Users\User\RiderProjects\КУРСАЧ\obj\Debug\net8.0\CourseWork.genruntimeconfig.cache
+C:\Users\User\RiderProjects\КУРСАЧ\obj\Debug\net8.0\ref\CourseWork.dll
